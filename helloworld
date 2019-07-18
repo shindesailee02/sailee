@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("welcome to horizon 2k19");
+int a,b,c,d;
+printf("enter value of a:%d",a);
+scanf("%d",&a);
+printf("enter value of b:",b);
+scanf("%d",&b);
+c=a+b;
+d=a-b;
+printf("the addition is :%d",c);
+printf("the subtraction is :%d",d);
+getch();
+}
